@@ -70,5 +70,9 @@
     },
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
-    }
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleAttributePerLine": true,
+    "prettier.singleQuote": true,
+    "notebook.output.wordWrap": true
 }
